@@ -93,10 +93,10 @@ jupyter notebook GrainPallete_Rice_Type_Classification.ipynb
 
 👥 Contributors
 
-Kunal Goel
-Ayush Mishra
-Aashish
-Abjeet Singh
+Kunal Goel<br>
+Ayush Mishra<br>
+Aashish<br>
+Abjeet Singh<br>
 
 📜 License
 
